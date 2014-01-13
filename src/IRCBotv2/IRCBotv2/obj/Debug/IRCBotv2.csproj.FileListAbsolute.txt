@@ -1,0 +1,12 @@
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\IRCBotv2.exe.config
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\IRCBotv2.exe
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\IRCBotv2.pdb
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\obj\Debug\IRCBotv2.exe
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\obj\Debug\IRCBotv2.pdb
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\Newtonsoft.Json.dll
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\Newtonsoft.Json.xml
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\IRCBotv2.exe.manifest
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\bin\Debug\IRCBotv2.application
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\obj\Debug\IRCBotv2.exe.manifest
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\obj\Debug\IRCBotv2.application
+c:\users\ebroo_000\documents\visual studio 2012\Projects\IRCBotv2\IRCBotv2\obj\Debug\IRCBotv2.csprojResolveAssemblyReference.cache
